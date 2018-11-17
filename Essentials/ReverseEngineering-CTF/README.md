@@ -1,0 +1,1 @@
+#Deep dive into the basic block of traning  of the hacker . this is the minimal info that is enough for the programmer to break into systems ( although  in real case we use on during  analysing close sources system like MacOS or any obfuscated malware) 
