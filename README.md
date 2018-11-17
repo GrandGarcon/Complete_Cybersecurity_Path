@@ -7,10 +7,7 @@ the open source way to  do the excercises to be a Full-Stack Cybersecurity Engin
 
 # To Do List
 
-- [ ] Literature review.
-- [ ] Implement train/test/evaluation framework.
-- [ ] Feature engineering.
-- [ ] Compare different ML techniques.
-- [ ] Fine-tune hyperparameters.
-- [ ] Write report.
-- [ ] Prepare for presentation.
+- [ ] writing the minimum viable project and resources
+- [ ] Implementing the recent Ml papers with cybersecurity
+- [ ]  Excercises and resource on professional courses
+
