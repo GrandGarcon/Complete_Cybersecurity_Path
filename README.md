@@ -5,6 +5,14 @@ the open source way to  do the excercises to be a Full-Stack Cybersecurity Engin
 
 
 
+
+## some awesome papers to be implemented
+
+1.  [a nice paper on using crypto for avoiding adversarial attacks on  dnn](https://arxiv.org/pdf/1809.01715.pdf)
+  - [ ] work on the implementation , will be an awesome work for thesis and the further development
+   
+
+
 # To Do List
 
 - [ ] writing the minimum viable project and resources
