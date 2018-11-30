@@ -17,3 +17,5 @@ now starting with our lists  of most  threatening malware  that can paralyse the
 1. [**Trition Malware**](https://www.nozominetworks.com/downloads/US/Nozomi-Networks-TRITON-The-First-SIS-Cyberattack.pdf) :- a recent malware which can take down last line of defense in the critical stations.
 
 2. Xori :- an open source machine learning based awesome disassembler which makes professional and pricey disassemblers like IDA pro biting dust.
+
+3. Using AI to obfuscate malware :- this terrifying reality is best shown in the following slides  by an IBM researcher[link](https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targeted-Attacks-with-AI-Locksmithing.pdf)
