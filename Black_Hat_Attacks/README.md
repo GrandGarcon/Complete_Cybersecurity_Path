@@ -19,3 +19,5 @@ now starting with our lists  of most  threatening malware  that can paralyse the
 2. Xori :- an open source machine learning based awesome disassembler which makes professional and pricey disassemblers like IDA pro biting dust.
 
 3. Using AI to obfuscate malware :- this terrifying reality is best shown in the following slides  by an IBM researcher[link](https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targeted-Attacks-with-AI-Locksmithing.pdf)
+
+4. [a nice thesis for understanding the basics of the industrial  automation systems] (http://www.academia.edu/37057227/Simulation_of_cyber_attacks_against_SCADA_systems)
