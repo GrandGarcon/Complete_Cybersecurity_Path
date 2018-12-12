@@ -1,8 +1,8 @@
 # Complete_Cybersecurity_Path
 the open source way to  do the excercises to be a Full-Stack Cybersecurity Engineer. added with the recent paper in the field of Machine learning and cybersecurity. for more info about theis path :- https://www.sans.org/cyber-security-skills-roadmap/
 ## Overview
-
-
+1 [Link to SWIFT paper awesome abput risk in world financial markets](https://www.swift.com/resource/how-cyber-attackers-could-target-worlds-financial-markets)
+<br>2. [also in security markets](https://www.issanet.org/e/pdf/2018-10_ISSA_Cyber_Risk_in_Securities_Services.pdf)
 
 
 
