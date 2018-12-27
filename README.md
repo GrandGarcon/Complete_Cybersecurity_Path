@@ -4,7 +4,7 @@ the open source way to  do the excercises to be a Full-Stack Cybersecurity Engin
 1 [Link to SWIFT paper awesome abput risk in world financial markets](https://www.swift.com/resource/how-cyber-attackers-could-target-worlds-financial-markets)
 <br>2. [also in security markets](https://www.issanet.org/e/pdf/2018-10_ISSA_Cyber_Risk_in_Securities_Services.pdf)
 
-
+## for beginners , this book  will be sufficient to get started:-  https://github.com/hija/MalwareDataScience
 
 ## some awesome papers to be implemented
 
