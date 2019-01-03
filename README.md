@@ -11,7 +11,7 @@ the open source way to  do the excercises to be a Full-Stack Cybersecurity Engin
 1.  [a nice paper on using crypto for avoiding adversarial attacks on  dnn](https://arxiv.org/pdf/1809.01715.pdf)
   - [ ] work on the implementation , will be an awesome work for thesis and the further development
    
-
+2. [a  paper showing the Embedded hardware  attacks which can compromise millions of devices](https://arxiv.org/abs/1812.02770)
 
 # To Do List
 
