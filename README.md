@@ -39,13 +39,17 @@ this is the competition started by the NSA to crack the network packets  and the
 
 ### Some good links for communities 
 one and only :- 0x00sec
+then for the practical , reading RE book 0xA reverse engineering linux is the bible for those who really want to learning the CA & OS at same time and also write low level but standardized code ( wish i have known this site rather than sitting hours & hrs in boring repeated classes).
 
 
 
 
 # To Do List
 
-- [ ] writing the minimum viable project and resources
+- [X] writing the minimum viable project and resources
+  - for the starting solve questions only from CTF365 / HTB  with one problem each day from diffrent type.
+  
+
 - [ ] Implementing the recent Ml papers with cybersecurity
 - [ ]  Excercises and resource on professional courses
 
