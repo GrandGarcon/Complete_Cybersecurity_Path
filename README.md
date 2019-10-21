@@ -28,7 +28,7 @@ this is the competition started by the NSA to crack the network packets  and the
   
   ### 2.2 creating networking packets :- 
 
-
+    2.2.1  scapy assignments from the inf 586  to do from basic TCP attacks to more sophisticated attacks checking the firewall architecture , snooping on the ports  with NMAP etc.
 
 
 
@@ -38,9 +38,16 @@ this is the competition started by the NSA to crack the network packets  and the
 
 
 ### Some good links for communities 
-one and only :- 0x00sec
+1. For the CTF and other experiences:- 0x00sec
 then for the practical , reading RE book 0xA reverse engineering linux is the bible for those who really want to learning the CA & OS at same time and also write low level but standardized code ( wish i have known this site rather than sitting hours & hrs in boring repeated classes).
 
+
+
+### some open standards :
+1. MISP : getting the collaboration information sharing  for malware analysis and threat intelligence . check its compatiblity and diffrence with the TAXII and other protocols .
+
+
+###  Cybersec-DevOPS: 
 
 
 
@@ -51,5 +58,5 @@ then for the practical , reading RE book 0xA reverse engineering linux is the bi
   
 
 - [ ] Implementing the recent Ml papers with cybersecurity
-- [ ]  Excercises and resource on professional courses
+- [X]  Excercises and resource on professional courses
 
