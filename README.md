@@ -48,7 +48,7 @@ then for the practical , reading RE book 0xA reverse engineering linux is the bi
 
 
 ###  Cybersec-DevOPS: 
-
+1. the automated patching management system on the scales of thousands of servers ( like oracle autonomous linux service) is a great start to really check the  Linux admin stuff and the principles of site reliablity engineering so as to work on the automating the patch management and also checking the file systems  by the automation of the file reverse engineering . 
 
 
 # To Do List
@@ -57,6 +57,7 @@ then for the practical , reading RE book 0xA reverse engineering linux is the bi
   - for the starting solve questions only from CTF365 / HTB  with one problem each day from diffrent type.
   
 
-- [ ] Implementing the recent Ml papers with cybersecurity
-- [X]  Excercises and resource on professional courses
+- [ ] Implementing the recent Ml papers with cybersecurity (currently not my cup of tea , any contrbutions will be welome)
+- [X]  Excercises and resource on professional courses 
 
+###  focus on the cockami 
