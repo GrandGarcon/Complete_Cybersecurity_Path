@@ -22,18 +22,18 @@ the open source way to  do the excercises to be a Full-Stack Cybersecurity Engin
 
 ### 2. compeittion :-  completing the codebreaker competition :- 
 this is the competition started by the NSA to crack the network packets  and then the mobile app stepwise so as to utilise the knowledge from the SANS tutorials. its to be very challanging competition :- 
-  ### 2.1 wireless packet analysis :- using wireshark :- [book on the tutorial](http://index-of.es/Varios-2/Practical%20Packet%20Analysis%20Using%20Wireshark%20to%20Solve%20Real%20World%20Problems.pdf)
+  - 
+
+### 2.1 wireless packet analysis :- using wireshark :- [book on the tutorial](http://index-of.es/Varios-2/Practical%20Packet%20Analysis%20Using%20Wireshark%20to%20Solve%20Real%20World%20Problems.pdf)
   
   
   
   ### 2.2 creating networking packets :- 
 
-    2.2.1  scapy assignments from the inf 586  to do from basic TCP attacks to more sophisticated attacks checking the firewall architecture , snooping on the ports  with NMAP etc.
+    2.2.1  scapy  tutorial and the various techniques for getting the resulting architecture of firewall ids.
 
 
-
-
-
+### course on the reverse engineering and obfuscation on linux and embedded architecture 
 
 
 
