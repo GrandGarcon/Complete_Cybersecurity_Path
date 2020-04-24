@@ -56,8 +56,18 @@ then for the practical , reading RE book 0xA reverse engineering linux is the bi
 - [X] writing the minimum viable project and resources
   - for the starting solve questions only from CTF365 / HTB  with one problem each day from diffrent type.
   
-
 - [ ] Implementing the recent Ml papers with cybersecurity (currently not my cup of tea , any contrbutions will be welome)
-- [X]  Excercises and resource on professional courses 
+  - 
 
-###  focus on the cockami 
+
+-[X]  Excercises and resource on professional courses 
+
+###   yellow pages  of infosec world:
+  -1 rmusser.net :https://docs.rmusser.net/
+    1.1  making a complete course on this with the tutorials on notion[ ]. 
+    1.2 deploy them using the concepts of extremeDevOPS ( Ci + CD + testing + code formatting / reviewing in real time ) :https://blog.yourlabs.org/posts/2020-02-08-bigsudo-extreme-devops-hacking-operations/ .
+    
+1. 
+
+
+
