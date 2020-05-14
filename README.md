@@ -67,7 +67,9 @@ then for the practical , reading RE book 0xA reverse engineering linux is the bi
     1.1  making a complete course on this with the tutorials on notion[ ]. 
     1.2 deploy them using the concepts of extremeDevOPS ( Ci + CD + testing + code formatting / reviewing in real time ) :https://blog.yourlabs.org/posts/2020-02-08-bigsudo-extreme-devops-hacking-operations/ .
     
-1. 
+2. Hackerone and other bounty networks , starting from basic vulns . get yourself accostomed to that only then your profile will suffice as Cybersecurity researcher.
+
+3. https://pentester.land the best blog to keep latest infosec  writeups and  other information .
 
 
 
