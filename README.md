@@ -1,6 +1,7 @@
 # Complete_Cybersecurity_Path
 the open source way to  do the excercises to be a Full-Stack Cybersecurity Engineer. added with the recent paper in the field of Machine learning and cybersecurity. for more info about theis path :- https://www.sans.org/cyber-security-skills-roadmap/
-## general overview of attack surfaces waiting for disruption 
+## general overview of the information about  security of financial markets and security concerns 
+
 1 [Financial market attacks](https://www.swift.com/resource/how-cyber-attackers-could-target-worlds-financial-markets)
 <br>2. [security markets , having close to 2x the US gdp traded each year ](https://www.issanet.org/e/pdf/2018-10_ISSA_Cyber_Risk_in_Securities_Services.pdf)
 
@@ -8,7 +9,7 @@ the open source way to  do the excercises to be a Full-Stack Cybersecurity Engin
 
 ## some nice papers for  Cybersecurity research 
 1.  [a nice paper on using crypto for avoiding adversarial attacks on  dnn](https://arxiv.org/pdf/1809.01715.pdf)
-  - [X] Implementation work to be 
+  - [X]  some papers on adversarial Machine learning from the arxiv and their code 
    
 2. [a  paper showing the Embedded supplychain  hardware  attacks ](https://arxiv.org/abs/1812.02770)
 
