@@ -1,5 +1,22 @@
 # Complete_Cybersecurity_Path
-the open source way to  do the excercises to be a Full-Stack Cybersecurity Engineer. added with the recent paper in the field of Machine learning and cybersecurity. for more info about theis path :- https://www.sans.org/cyber-security-skills-roadmap/
+the open source way to  do the excercises to be a Full-Stack Cybersecurity Engineer. added with the recent paper in the field of Machine learning and cybersecurity. 
+
+The main objective of this reposiroty , apart from the numerous "Awesome repo's for diffrent cybersec topics" is to give an  glimpse to more unknown and recent challanges in the field of cybersecurity  , trying to create an open source alternative to these , otherwise costly courses , as in 2021 ,  certificates and title will not be an barrier for  experienced cyber workforce .
+
+
+
+[Starting with the impressive collection of course with syllabus for latest courses ](https://www.sans.org/cyber-security-courses/)
+
+
+## Starting with the  SANS courses , i will be adding each day 2-3 courses information in tidybits. 
+
+1. Day-1 : [SEC760]() and [SEC660]()
+2. 
+
+
+
+
+
 ## general overview of the information about  security of financial markets and security concerns 
 
 1 [Financial market attacks](https://www.swift.com/resource/how-cyber-attackers-could-target-worlds-financial-markets)
