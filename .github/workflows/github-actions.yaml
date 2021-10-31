@@ -1,0 +1,10 @@
+name: github actions for tutorial merge 
+on: [push]
+jobs:
+  GitHub-Actions-grammatical:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "TODO:grammatical corrections needed to be corrected"
+          - name: Check spelling
+            uses: check-spelling/check-spelling@v0.0.19
