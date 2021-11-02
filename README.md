@@ -6,7 +6,7 @@ The main objective of this repository , apart from the indexing the numerous "Aw
 
 apart from the traditional verticals in the security (cloud audits , embedded systems security) , my foray into the web3 dapp development across EVM / non EVM ecosystems and adapting the diffrent  general concepts  concering the security practices in the traditional web2 world and how that can be integrated into the web3 ecosystem.
 
-Each of the folder defines the diffrent verticals into the 
+Each of the folder defines the diffrent verticals into the  given IT stacks (either being from cloud native , or from the web3 ecosystem).
 
 
 
@@ -39,7 +39,7 @@ for understanding the practical and sensational details of the security and web3
 - [immunefi]().
 - [code42n34]().
 - [quarksLabs RE blog]().
-
+- [Kernel resources]().
 
 
 
